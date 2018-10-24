@@ -2,3 +2,4 @@ some string:
 	nothing here
 currently in master
 some more text to apprear also in idmr branch
+export HOSTNAME="${ENVIRONMENT}.idmr-opendj-cts-${AV_ZONE}.${DOMAIN_NAME}"; # DOMAIN_NAME comes from init-variables
